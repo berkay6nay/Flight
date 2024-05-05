@@ -85,7 +85,7 @@ Seat Endpoints:
     
     This post request buys the seat , changes its state to bought and creates a payment object associated to it.
 
-Resources I have used while writing this programm:
+Resources I have used to develop the api:
 
 https://spring.io/projects/spring-boot
 https://spring.io/guides/tutorials/rest/
